@@ -1,14 +1,12 @@
 # console.log('Hello World!')
 
-![wakatime](https://wakatime.com/badge/user/youruserid.svg)
-
 ## Hi everyone, I'm Artur. Fullstack developer
 
 - ❤️ Develop platforms using Javascript, React
-- 🔬 Researcher of VR/webXR, 3D tech
+- 🔍 Currently seeking job opportunities
 - 🗨️ Let's talk more on [Telegram](https://t.me/yourusername)
 
-![job search icon](https://img.icons8.com/ios-filled/50/000000/job-search.png)
+
 
 ## Tech stack
 
@@ -37,9 +35,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=object-oriented-programming&logoColor=white)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
