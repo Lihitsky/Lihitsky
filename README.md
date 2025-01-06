@@ -33,6 +33,5 @@
 
 
 ## Portfolio
-- [Hospital Website](hospital-website-own2kpe2u-lihitskys-projects.vercel.app)
-- [Simple Landing](vr-studio-x-landing-8bl1j08cg-lihitskys-projects.vercel.app)
-- [Posting App]
+- [Hospital Website](https://hospital-website-five-hazel.vercel.app/)
+- [Simple Landing](https://vr-studio-x-landing.vercel.app/)
