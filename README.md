@@ -6,7 +6,6 @@
 - 🔍 Currently seeking job opportunities
 - 🗨️ Let's talk more on [Telegram](https://t.me/artur_lihitskiy)
 
-
 ## Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -32,3 +31,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
+## Portfolio
+- [Hospital Website](hospital-website-own2kpe2u-lihitskys-projects.vercel.app)
+- [Simple Landing](vr-studio-x-landing-8bl1j08cg-lihitskys-projects.vercel.app)
+- [Posting App]
