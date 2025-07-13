@@ -8,5 +8,5 @@
 
 ## Portfolio
 - [Hospital Website](https://hospital-website-tan.vercel.app/)
-- [Simple Landing](https://vr-studio-x-landing.vercel.app/)
+- [Simple Landing](https://vrstudio-landing-al.pp.ua/)
 - [Attorney Blog](https://attorney-blog-al.pp.ua/)
